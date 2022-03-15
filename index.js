@@ -74,9 +74,4 @@ orb.addEventListener('mousemove', ev => {
   
     orb.style.transform = `rotate(${x}deg)`
     orb.style.transform = `rotate(${y}deg)`
-  
-  
-
-   
-     
-   });
+  });
