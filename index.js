@@ -53,11 +53,9 @@ gsap.from("#c",{
 gsap.from("#orb",{
     delay:3,
     opacity:0,
-    bottom:"35%",
-    duration:3,
-
- 
-  
+    top:"48%",
+    duration:2,
+   
 })
 gsap.from("#nav",{
     opacity:0,
